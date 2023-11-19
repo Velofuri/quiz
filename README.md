@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align='center'>
+  <h1>Quiz JavaScript</h1>
+</div>
 
-## Getting Started
+<div align='center'>
+  <img src='https://github.com/Velofuri/quiz/assets/115018302/00e4d756-535e-4c18-8f3c-cb129b736609)' width='400px'>
+</div>
+<br>
+<br>
 
-First, run the development server:
+**🚀 Teste seus conhecimentos em JavaScript**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- [Funcionalidades](#funcionalidades)
+- [Configuração](#configuracao)
+- [Roadmap](#roadmap)
+- [Contribuição](#contribuicao)
+- [Licença](#licenca)
+- [Contato](#contato)
+
+## <a id="funcionalidades"></a> ✨ Funcionalidades
+
+Testar seus conhecimentos em JavaScript
+
+## <a id="configuracao"></a>⚙️ Configuração
+
+Siga as etapas abaixo para configurar o projeto em seu ambiente local:
+
+1. **Clone o repositório do GitHub:**
+```nodejs
+git clone https://github.com/Velofuri/quiz.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. **Instale as dependências do projeto:**
+```nodejs
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+4. **Execute o projeto:**
+```nodejs
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+5. **O quiz estará disponível localmente em `http://localhost:3000`.**
 
-## Learn More
+## <a id="roadmap"></a>🗺️ Roadmap
 
-To learn more about Next.js, take a look at the following resources:
+Projeto concluído
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## <a id="contribuicao"></a>🤝 Contribuição
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+As contribuições para o projeto são bem-vindas. Se você deseja contribuir, siga as etapas abaixo:
 
-## Deploy on Vercel
+1. Faça um fork do repositório.
+2. Crie uma branch para sua feature:
+   
+```nodejs
+git checkout -b minha-feature
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Desenvolva sua feature e faça commit das alterações:
+```nodejs
+git commit -m "Minha nova feature"
+```
+4. Faça push da branch para o repositório remoto:
+```nodejs
+git push origin minha-feature
+```
+5. Abra um pull request no repositório original.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## <a id="licenca"></a>📄 Licença
+
+Ainda não implementado
+
+## <a id="contato"></a>📧 Contato
+
+Se você tiver alguma dúvida ou sugestão em relação a este projeto, entre em contato com velofuri@gmail.com
